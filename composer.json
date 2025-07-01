@@ -3,7 +3,8 @@
     "description": "PHP Resettable Interface",
     "type": "library",
     "require": {
-        "php": ">=8.0.0"
+        "php": ">=8.0.0",
+        "monolog/monolog": "^3.9"
     },
     "license": "MIT",
     "autoload": {
