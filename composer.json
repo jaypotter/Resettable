@@ -4,7 +4,8 @@
     "type": "library",
     "require": {
         "php": ">=8.0.0",
-        "monolog/monolog": "^3.9"
+        "monolog/monolog": "^3.9",
+        "symfony/service-contracts": "^3.6"
     },
     "license": "MIT",
     "autoload": {
